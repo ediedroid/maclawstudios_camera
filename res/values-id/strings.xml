@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="appname">Camera</string>
-    <string name="hello">MaclawStudios Camera - Beta 1</string>
+    <string name="appname">Kamera</string>
+    <string name="hello">Kamera MaclawStudios - Beta 1</string>
     <string name="unsupported">Perangkat tidak didukung!</string>
     <string name="error">Terjadi suatu kesalahan&#8230;</string>
 </resources>
